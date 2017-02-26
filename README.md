@@ -1,2 +1,1 @@
-# yiju
-易居项目
+personal resume
